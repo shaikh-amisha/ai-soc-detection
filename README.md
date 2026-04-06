@@ -39,7 +39,7 @@ The system captures live network traffic, processes packet data, identifies anom
 # ⚙️ Step by Step Workflow:
 
 ## 1️⃣ Airia Agent Creation
-
+![Airia Agent](Airia.png) 
 * Sign-up into airia.ai and create a project under the project section.
 
   * Create a project and add your appropriate ai model using.
@@ -48,6 +48,7 @@ The system captures live network traffic, processes packet data, identifies anom
 ---
 
 ## 2️⃣ Packet Capturing
+![Packet Capturing](kali_linux.png)
 
 * In this step we are going to run the python script created onto Kali Linux Vm.
 
@@ -64,6 +65,7 @@ The system captures live network traffic, processes packet data, identifies anom
 ---
 
 ## 3️⃣ Traffic Generation
+![Ubuntu VM](ubuntu_ping.png)
 
 * In this step we are going to generate the traffic on Ubuntu Vm using:
 
