@@ -36,6 +36,9 @@ The system captures live network traffic, processes packet data, identifies anom
 
 ---
 
+# Lab Architecture
+![Lab](Flow.png) 
+
 # ⚙️ Step by Step Workflow:
 
 ## 1️⃣ Airia Agent Creation
